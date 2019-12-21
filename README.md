@@ -1,4 +1,8 @@
-# Social Media
+# Burnsview Robotics Resources
+
+Inspired by [1010 Robotics Resources](https://github.com/1010Robotics/Resources).
+
+## Burnsview Robotics Social Media
 
 | Link | Media |
 |------|-------|
