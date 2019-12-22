@@ -2,7 +2,7 @@
 
 * [Programming Software Comparison (tl;dr: use PROS)](https://7842navigators.com/tutorials/introductions/programming-softwares/)
 * [PROS Setup](https://7842navigators.com/tutorials/walkthroughs/pros-setup/)
-* [PROS Tutorials](https://www.youtube.com/playlist?list=PLjDDToy52Qcqu1UlE8ez8jUJOpTx0mSvr)
+* [PROS Tutorials](https://www.youtube.com/playlist?list=PLr3wouhOCcpcK45nuKZlwYtBya85GXSdc)
 
 ## Git and GitHub
 
