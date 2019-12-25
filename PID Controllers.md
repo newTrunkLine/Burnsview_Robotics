@@ -2,6 +2,7 @@
 
 * [Introduction to PID Controllers](http://georgegillard.com/programming-guides/introduction_to_pid_controllers_ed2-pdf?format=raw)
 * [1727B's Guide to PID Control Loops in ROBOTC](https://bit.ly/2UkhuLz)
+* [A PID Controller in ROBOTC](https://www.vexforum.com/t/a-pid-controller-in-robotc/20105)
 
 ### PID with VEXcode
 
