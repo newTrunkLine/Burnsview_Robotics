@@ -7,4 +7,4 @@
 * [AURA (Skyrise, VEX U)](http://www.aura.org.nz/wp-content/uploads/2015AuraNotebook.pdf)
 * [5509A (VEX IQ)](https://www.roboticseducation.org/documents/2014/09/vex-iq-challenge-sample-design-notebook-team-5509a.pdf/)
 
-Previous engineering journals completed by Burnsview alumni can be borrowed from Mr. Ma by request. These journals, along with those listed above, should provide some inspiration as to what to include in your journal. It's important to have a comprehensive journal that shows both *why* and *how* you implemented changes in your robot design, code, or game strategy.
+Previous engineering journals completed by Burnsview alumni can be borrowed from Mr. Ma by request. These journals, along with those listed above, should provide some inspiration as to what to include in your journal. It's important to have a comprehensive journal that shows both *why* and *how* you implemented changes in your robot design, programming, or game strategy.
