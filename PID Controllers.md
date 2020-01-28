@@ -6,6 +6,7 @@
 
 ### PID with VEXcode
 
+* [VEXCode V5 Text Tutorials - Autonomous PID and Multitasking](https://www.youtube.com/watch?v=_Itn-0d340g)
 * [Voltage in VEXcode](https://www.vexforum.com/t/voltage-in-vexcode/61059)
 * [Encoder Ticks for V5](https://www.vexforum.com/t/encoder-ticks-for-v5/49636)
 
